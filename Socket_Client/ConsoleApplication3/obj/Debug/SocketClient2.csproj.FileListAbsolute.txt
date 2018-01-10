@@ -1,0 +1,11 @@
+c:\users\alexu\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+c:\users\alexu\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+c:\users\alexu\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+c:\users\alexu\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+c:\users\alexu\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Socket_Client\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Socket_Client\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Socket_Client\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Socket_Client\ConsoleApplication3\obj\Debug\SocketClient2.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Socket_Client\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Socket_Client\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
